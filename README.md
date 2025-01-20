@@ -32,7 +32,9 @@ The vehicle is capable of performing a U-turn when required, ensuring flexibilit
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/3079982f-db20-4ae0-a0f1-c26196145e92)
 
-
+## Possible Usage of the project
+This project offers a simple and cost-effective solution for **autonomous delivery vehicles** in warehouse environments. <BR>
+The vehicle can navigate through aisles, and autonomously transport items from one location to another, reducing the need for manual labor and improving efficiency.
 
 
 
