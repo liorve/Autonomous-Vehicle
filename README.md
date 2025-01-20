@@ -1,4 +1,4 @@
-# Autonomous Vehicle (Final Degree Project)
+# Autonomous Vehicle (Final Degree Team Project)
 
 This project is an autonomous vehicle developed for a final degree project. <br>
 It uses an ESP32 microcontroller and features lane detection and pathfinding. <br>
