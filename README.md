@@ -30,7 +30,8 @@ The vehicle is capable of performing a U-turn when required, ensuring flexibilit
 ![video - 3](https://github.com/user-attachments/assets/aabfbb8a-6bde-42dd-8e70-7a64bdccea31)
 
 ## Project Structure
-![image](https://github.com/user-attachments/assets/34b5a719-43af-4ff9-b080-d5718863ea79)
+![image](https://github.com/user-attachments/assets/29e04e49-18e4-4f5b-b867-bfb5a8a7ab67)
+
 
 
 
