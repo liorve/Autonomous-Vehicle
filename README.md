@@ -29,6 +29,10 @@ The vehicle is capable of performing a U-turn when required, ensuring flexibilit
 ![video - 2](https://github.com/user-attachments/assets/27209457-6a64-4b98-b586-bfa349468490)
 ![video - 3](https://github.com/user-attachments/assets/aabfbb8a-6bde-42dd-8e70-7a64bdccea31)
 
+## Project Structure
+![image](https://github.com/user-attachments/assets/34b5a719-43af-4ff9-b080-d5718863ea79)
+
+
 
 ## Contributions
 This project was developed as a team effort, and I would like to extend my special thanks to my teammates, Denis K and Tahel C, for their invaluable contributions and hard work throughout the project.
