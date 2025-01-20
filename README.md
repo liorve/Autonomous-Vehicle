@@ -40,3 +40,4 @@ The vehicle can navigate through aisles, and autonomously transport items from o
 
 ## Contributions
 This project was developed as a team effort, and I would like to extend my special thanks to my teammates, Denis K and Tahel C, for their invaluable contributions and hard work throughout the project.
+The project also received a **Certificate of Appreciation**.
